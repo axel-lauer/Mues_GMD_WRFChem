@@ -3,4 +3,4 @@ This directory contains the WRF-Chem 3.5.1 files that have been modified in the 
 Geosci. Model Dev. The following two modifications have been applied:
 
 - added gravitational settling of aerosol particles for chem_opt=41 (RADM2/MADE/SORGAM)
-- preventing sea salt emissions from small in-land lakes in the Himalayas
+- fix to prevent sea salt emissions from small in-land lakes in the Himalayas
