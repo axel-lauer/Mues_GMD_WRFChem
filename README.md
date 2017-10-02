@@ -9,3 +9,5 @@ The following two modifications have been applied:
 - fix to prevent sea salt emissions from small in-land lakes in the Himalayas
 
 For more information on WRF-Chem, see official website at https://ruc.noaa.gov/wrf/wrf-chem/
+
+[![DOI](https://zenodo.org/badge/104982258.svg)](https://zenodo.org/badge/latestdoi/104982258)
