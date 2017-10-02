@@ -4,3 +4,5 @@ Geosci. Model Dev. The following two modifications have been applied:
 
 - added gravitational settling of aerosol particles for chem_opt=41 (RADM2/MADE/SORGAM)
 - fix to prevent sea salt emissions from small in-land lakes in the Himalayas
+
+For more information on WRF-Chem, see official website at https://ruc.noaa.gov/wrf/wrf-chem/
